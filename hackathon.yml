@@ -1,7 +1,7 @@
-name: HackUMass
-version: VIII # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
-main_website: https://hackumass.com
-dashboard_url: dashboard.hackumass.com
+name: HackHer
+version: 413 # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
+main_website: https://hackher413.com
+dashboard_url: dashboard.hackher413.com
 logos:
   primary_path: HackUMassLogo.png
   nav_path: navlogo.png
@@ -12,7 +12,7 @@ emails:
   email_verification: false
 slack:
   enabled: false
-  subdomain: hackumass
+  subdomain: hackher
 applications:
   mode: 'open'
   # options: open, waitlist, or closed. defaults to closed.
@@ -30,8 +30,8 @@ checkin:
     - UMass, Amherst
 projects:
   public: false
-  hacking_begins: "Dec 19, 2020 00:00:00"
-  hacking_ends: "Dec 20, 2019 10:30:00"
+  hacking_begins: "Feb 13, 2021 00:00:00"
+  hacking_ends: "Feb 14, 2021 00:00:00"
 # List all codes here which can be redeemed on Dashboard to grant permissions
 # This is useful for judges and mentors who show up to the event and need an account
 # with more permissions, and can save time and effort of an organizer
