@@ -3,12 +3,12 @@ version: 413 # Could also be a roman numeral or other number, will be concatenat
 main_website: https://hackher413.com
 dashboard_url: dashboard.hackher413.com
 logos:
-  primary_path: HackUMassLogo.png
+  primary_path: HackHerLogo.png
   nav_path: navlogo.png
-  favicon_url: https://hackumass.com/assets/img/favicon-hum8.ico
+  favicon_url: https://www.hackher413.com/assets/images/2021/faviconHackHer.ico
 emails:
-  donotreply: noreply@hackumass.com
-  contact: team@hackumass.com
+  donotreply: hackher413@gmail.com
+  contact: hackher413@gmail.com
   email_verification: false
 slack:
   enabled: false
@@ -30,12 +30,12 @@ checkin:
     - UMass, Amherst
 projects:
   public: false
-  hacking_begins: "Feb 13, 2021 00:00:00"
-  hacking_ends: "Feb 14, 2021 00:00:00"
+  hacking_begins: "Feb 13, 2021 09:00:00"
+  hacking_ends: "Feb 14, 2021 17:00:00"
 # List all codes here which can be redeemed on Dashboard to grant permissions
 # This is useful for judges and mentors who show up to the event and need an account
 # with more permissions, and can save time and effort of an organizer
 # Format is code:role granted
 codes:
-  hackumass2020mentor: mentor
-  6u8n2MSTYN7RUpBx: admin
+  C5F43E05FD512A44212FD71CB1D7CB1B: mentor
+  75E66A159C112EE1F178F8693EE85468: admin

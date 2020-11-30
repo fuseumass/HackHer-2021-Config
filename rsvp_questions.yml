@@ -1,6 +1,6 @@
 custom_questions:
  - name: workshops
-   label: "What types of workshops do you want to see at HackUMass VIII?"
+   label: "What types of workshops do you want to see at HackHer413 2021?"
    type: multiselect
    options:
     - Hardware
@@ -11,4 +11,7 @@ custom_questions:
     - Machine Learning/AI
     - Cloud Computing
     - Career Development
-
+ - name: most_excited
+   label: 'What are you looking forward to the most at HackHer413 2021?'
+   type: 'textarea'
+   max_chars: 500
