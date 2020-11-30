@@ -113,11 +113,10 @@ custom_fields:
    type: 'textarea'
    max_chars: 500
  - name: fun_question
-   label: "Are you excited to become a part of the beehive?! #iBeelong #PartoftheSwarm:"
+   label: 'How did you hear about HackHer413 2021?'
    type: multiselect
    required: True
    options:
     - yes
     - YES
     - HELL YES
-
