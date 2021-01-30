@@ -11,8 +11,8 @@ emails:
   contact: hackher413@gmail.com
   email_verification: false
 slack:
-  enabled: false
-  subdomain: hackher
+  enabled: true
+  subdomain: hackher4132021
 applications:
   mode: 'open'
   # options: open, waitlist, or closed. defaults to closed.
